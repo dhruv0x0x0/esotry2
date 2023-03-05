@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/esotry2/static/js/main.0ddd6691.js",
+    "static/media/trav_bg.wasm": "/esotry2/static/media/trav_bg.494be58efeb81545fedd.wasm",
+    "index.html": "/esotry2/index.html",
+    "main.0ddd6691.js.map": "/esotry2/static/js/main.0ddd6691.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.0ddd6691.js"
+  ]
+}
