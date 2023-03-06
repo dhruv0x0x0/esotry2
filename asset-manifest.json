@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/esotry2/static/js/main.7a99d40b.js",
+    "main.js": "/esotry2/static/js/main.be7c75ee.js",
     "static/media/trav_bg.wasm": "/esotry2/static/media/trav_bg.494be58efeb81545fedd.wasm",
     "index.html": "/esotry2/index.html",
-    "main.7a99d40b.js.map": "/esotry2/static/js/main.7a99d40b.js.map"
+    "main.be7c75ee.js.map": "/esotry2/static/js/main.be7c75ee.js.map"
   },
   "entrypoints": [
-    "static/js/main.7a99d40b.js"
+    "static/js/main.be7c75ee.js"
   ]
 }
